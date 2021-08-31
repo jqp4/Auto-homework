@@ -4,9 +4,6 @@ Technology stack
 ---
 - Python3
 - Jupyter notebook
-- pandas
-- numpy
-- xlrd
 
 Preparation for work - installation librarys
 ---
